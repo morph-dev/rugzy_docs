@@ -1,0 +1,8 @@
+theme: "just-the-docs"
+
+title: "Rugzy"
+logo: "/assets/images/logo.svg"
+
+aux_links:
+  "Site": "https://www.rugzy.xyz/"
+  "App": "https://uat.rugzy.io/"
